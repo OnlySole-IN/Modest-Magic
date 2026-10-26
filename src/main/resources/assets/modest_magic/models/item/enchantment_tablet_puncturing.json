@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "modest_magic:item/enchantment_tablet_puncturing"
+  }
+}

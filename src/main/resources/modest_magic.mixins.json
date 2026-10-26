@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.onlysole.modest_magic.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "modest_magic.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+    "client.SmithingScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

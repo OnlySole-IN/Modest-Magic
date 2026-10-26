@@ -1,0 +1,29 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "modest_magic:enchantment_tablet"
+  },
+  "ingredients": [
+    {
+	  "item": "minecraft:ghast_tear"
+	},
+    {
+	  "item": "minecraft:ghast_tear"
+	},
+    {
+	  "item": "minecraft:amethyst_shard"
+	},
+    {
+	  "item": "minecraft:amethyst_shard"
+	},
+    {
+      "item": "minecraft:amethyst_shard"
+    },
+    {
+      "item": "minecraft:amethyst_shard"
+    }
+  ],
+  "result": {
+    "item": "modest_magic:enchantment_tablet_recollection"
+  }
+}

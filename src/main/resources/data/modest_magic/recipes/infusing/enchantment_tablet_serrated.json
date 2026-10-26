@@ -1,0 +1,29 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "modest_magic:enchantment_tablet"
+  },
+  "ingredients": [
+    {
+	  "item": "minecraft:diamond"
+	},
+    {
+	  "item": "minecraft:diamond"
+	},
+    {
+	  "item": "minecraft:flint"
+	},
+    {
+	  "item": "minecraft:flint"
+	},
+    {
+      "item": "minecraft:cactus"
+    },
+    {
+      "item": "minecraft:cactus"
+    }
+  ],
+  "result": {
+    "item": "modest_magic:enchantment_tablet_serrated"
+  }
+}

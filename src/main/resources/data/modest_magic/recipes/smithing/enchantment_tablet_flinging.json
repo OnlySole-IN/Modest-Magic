@@ -1,0 +1,10 @@
+{
+  "type": "modest_magic:tablet_smithing",
+  "template": {
+    "item": "modest_magic:enchantment_tablet_flinging"
+  },
+  "enchantments": [
+    "minecraft:knockback",
+    "minecraft:punch"
+  ]
+}

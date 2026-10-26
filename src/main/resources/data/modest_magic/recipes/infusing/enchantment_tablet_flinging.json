@@ -1,0 +1,29 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "modest_magic:enchantment_tablet"
+  },
+  "ingredients": [
+    {
+	  "item": "minecraft:slime_ball"
+	},
+    {
+	  "item": "minecraft:slime_ball"
+	},
+    {
+	  "item": "minecraft:slime_ball"
+	},
+    {
+	  "item": "minecraft:slime_ball"
+	},
+    {
+      "item": "minecraft:redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "item": "modest_magic:enchantment_tablet_flinging"
+  }
+}

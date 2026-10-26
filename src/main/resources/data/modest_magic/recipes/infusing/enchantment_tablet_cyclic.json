@@ -1,0 +1,29 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "modest_magic:enchantment_tablet"
+  },
+  "ingredients": [
+    {
+	  "item": "minecraft:quartz"
+	},
+    {
+	  "item": "minecraft:quartz"
+	},
+    {
+	  "item": "minecraft:quartz"
+	},
+    {
+	  "item": "minecraft:prismarine_shard"
+	},
+    {
+      "item": "minecraft:prismarine_shard"
+    },
+    {
+      "item": "minecraft:prismarine_shard"
+    }
+  ],
+  "result": {
+    "item": "modest_magic:enchantment_tablet_cyclic"
+  }
+}

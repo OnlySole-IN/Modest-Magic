@@ -1,0 +1,10 @@
+{
+  "type": "modest_magic:tablet_smithing",
+  "template": {
+    "item": "modest_magic:enchantment_tablet_haunted"
+  },
+  "enchantments": [
+    "minecraft:swift_sneak",
+    "minecraft:soul_speed"
+  ]
+}

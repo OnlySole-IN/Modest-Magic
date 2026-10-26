@@ -1,0 +1,11 @@
+{
+  "type": "modest_magic:tablet_smithing",
+  "template": {
+    "item": "modest_magic:enchantment_tablet_lucky"
+  },
+  "enchantments": [
+    "minecraft:fortune",
+    "minecraft:looting",
+    "minecraft:luck_of_the_sea"
+  ]
+}

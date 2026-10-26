@@ -1,0 +1,26 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "modest_magic:enchantment_tablet"
+  },
+  "ingredients": [
+    {
+	  "item": "modest_magic:stardust"
+	},
+    {
+	  "item": "minecraft:obsidian"
+	},
+    {
+	  "item": "minecraft:obsidian"
+	},
+    {
+	  "item": "minecraft:obsidian"
+	},
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "modest_magic:enchantment_tablet_everlasting"
+  }
+}

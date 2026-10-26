@@ -1,0 +1,29 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "modest_magic:enchantment_tablet"
+  },
+  "ingredients": [
+    {
+	  "item": "minecraft:rabbit_foot"
+	},
+    {
+	  "item": "minecraft:emerald"
+	},
+    {
+	  "item": "minecraft:emerald"
+	},
+    {
+	  "item": "minecraft:emerald"
+	},
+    {
+      "item": "minecraft:diamond"
+    },
+    {
+      "item": "minecraft:diamond"
+    }
+  ],
+  "result": {
+    "item": "modest_magic:enchantment_tablet_lucky"
+  }
+}

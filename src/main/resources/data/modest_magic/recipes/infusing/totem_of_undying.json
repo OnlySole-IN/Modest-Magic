@@ -1,0 +1,47 @@
+{
+  "type": "modest_magic:infusing",
+  "base": { 
+    "item": "minecraft:experience_bottle"
+  },
+  "ingredients": [
+    {
+	  "item": "minecraft:gold_ingot"
+	},
+    {
+	  "item": "minecraft:gold_ingot"
+	},
+    {
+	  "item": "minecraft:gold_ingot"
+	},
+    {
+	  "item": "minecraft:gold_ingot"
+	},
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "minecraft:echo_shard"
+    },
+    {
+      "item": "modest_magic:stardust"
+    },
+    {
+      "item": "modest_magic:stardust"
+    },
+    {
+      "item": "modest_magic:stardust"
+    },
+    {
+      "item": "modest_magic:stardust"
+    }
+  ],
+  "result": {
+    "item": "minecraft:totem_of_undying"
+  }
+}
