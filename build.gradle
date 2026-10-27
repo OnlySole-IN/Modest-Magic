@@ -108,6 +108,10 @@ mixin {
 
 sourceSets.main.resources { srcDir 'src/generated/resources' }
 
+sourceSets.main.java {
+    exclude 'com/onlysole/modest_magic/integration/emi/**'
+}
+
 repositories {
     maven {
         name = "Progwml6's maven"
@@ -133,12 +137,13 @@ dependencies {
 
     annotationProcessor 'org.spongepowered:mixin:0.8.5:processor'
 
+    compileOnly(fg.deobf("mezz.jei:jei-${mc_version}-common-api:${jei_version}"))
     compileOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge-api:${jei_version}"))
     runtimeOnly(fg.deobf("mezz.jei:jei-${mc_version}-forge:${jei_version}"))
 
     implementation fg.deobf("curse.maven:jade-324717:6855440")
 
-    implementation fg.deobf("curse.maven:emi-580555:8081375")
+    compileOnly fg.deobf("curse.maven:emi-580555:8081375")
 
     implementation fg.deobf("curse.maven:cloth-config-348521:5729105")
 
